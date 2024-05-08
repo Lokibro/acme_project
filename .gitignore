@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+acme_venv/
 
 # Spyder project settings
 .spyderproject
@@ -130,4 +131,3 @@ dmypy.json
 
 .idea
 
-.acme_venv/
